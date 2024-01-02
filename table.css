@@ -1,7 +1,9 @@
 table{
     border: 1px solid black;
+    background-color: rebeccapurple;
 }
 
 td{
     border: 1px solid black;
+    background-color: white;
 }
